@@ -8,7 +8,7 @@ Hiện tại, bạn chỉ có thể sử dụng **phiên bản portable**.
 
 1. Tải về file **launcher.zip**.  
 2. Giải nén vào một thư mục bất kỳ.  
-3. Mở thư mục → chạy **launcher.exe**.
+3. Mở thư mục → chạy **Portable.exe**.
 
 > **Lưu ý Windows SmartScreen**:  
 > Nếu hiện cảnh báo **Unknown publisher**, nhấn **More info → Run anyway** để chạy.  
