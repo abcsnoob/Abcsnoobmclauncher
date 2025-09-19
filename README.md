@@ -1,0 +1,7 @@
+# Thông tin về Launcher
+
+Hiện tại, bạn chỉ có thể sử dụng **phiên bản portable**.
+
+## Kết quả quét virus
+
+Bạn có thể kiểm tra kết quả quét virus trên [VirusTotal](https://www.virustotal.com/gui/file/ea08e01dea782b009e45f2f3182e6b93b6c92c5d69e2de2b02673c3efe0a3adb/detection).
